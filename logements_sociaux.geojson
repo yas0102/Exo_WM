@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "logements_sociaux",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "c_ar": "2", "c_arinsee": "75102", "l_ar": "2ème Ardt", "l_aroff": "Bourse", "2020": 4, "2021": 62, "2022": 48, "2023": 4 }, "geometry": { "type": "Point", "coordinates": [ 2.342802546891364, 48.86827922252251 ] } },
+{ "type": "Feature", "properties": { "c_ar": "10", "c_arinsee": "75110", "l_ar": "10ème Ardt", "l_aroff": "Entrepôt", "2020": 87, "2021": 53, "2022": 81, "2023": 203 }, "geometry": { "type": "Point", "coordinates": [ 2.360728487847452, 48.876130036539131 ] } },
+{ "type": "Feature", "properties": { "c_ar": "18", "c_arinsee": "75118", "l_ar": "18ème Ardt", "l_aroff": "Buttes-Montmartre", "2020": 135, "2021": 989, "2022": 767, "2023": 620 }, "geometry": { "type": "Point", "coordinates": [ 2.34816051956204, 48.892569268005779 ] } },
+{ "type": "Feature", "properties": { "c_ar": "12", "c_arinsee": "75112", "l_ar": "12ème Ardt", "l_aroff": "Reuilly", "2020": 215, "2021": 577, "2022": 282, "2023": 370 }, "geometry": { "type": "Point", "coordinates": [ 2.421323515614465, 48.834974154202456 ] } },
+{ "type": "Feature", "properties": { "c_ar": "15", "c_arinsee": "75115", "l_ar": "15ème Ardt", "l_aroff": "Vaugirard", "2020": 263, "2021": 268, "2022": 586, "2023": 246 }, "geometry": { "type": "Point", "coordinates": [ 2.292825822424998, 48.840085375938216 ] } },
+{ "type": "Feature", "properties": { "c_ar": "20", "c_arinsee": "75120", "l_ar": "20ème Ardt", "l_aroff": "Ménilmontant", "2020": 147, "2021": 988, "2022": 430, "2023": 293 }, "geometry": { "type": "Point", "coordinates": [ 2.401188129284686, 48.863460578895619 ] } },
+{ "type": "Feature", "properties": { "c_ar": "8", "c_arinsee": "75108", "l_ar": "8ème Ardt", "l_aroff": "Élysée", "2020": 1, "2021": 35, "2022": 12, "2023": 38 }, "geometry": { "type": "Point", "coordinates": [ 2.312554022402065, 48.872720837434464 ] } },
+{ "type": "Feature", "properties": { "c_ar": "1", "c_arinsee": "75101", "l_ar": "1er Ardt", "l_aroff": "Louvre", "2020": 1, "2021": 12, "2022": 16, "2023": 29 }, "geometry": { "type": "Point", "coordinates": [ 2.336443362053388, 48.862562701836005 ] } },
+{ "type": "Feature", "properties": { "c_ar": "3", "c_arinsee": "75103", "l_ar": "3ème Ardt", "l_aroff": "Temple", "2020": 40, "2021": 38, "2022": 21, "2023": 30 }, "geometry": { "type": "Point", "coordinates": [ 2.360000985897692, 48.862872380016924 ] } },
+{ "type": "Feature", "properties": { "c_ar": "14", "c_arinsee": "75114", "l_ar": "14ème Ardt", "l_aroff": "Observatoire", "2020": 154, "2021": 370, "2022": 90, "2023": 183 }, "geometry": { "type": "Point", "coordinates": [ 2.326542044198947, 48.829244500489871 ] } },
+{ "type": "Feature", "properties": { "c_ar": "19", "c_arinsee": "75119", "l_ar": "19ème Ardt", "l_aroff": "Buttes-Chaumont", "2020": 107, "2021": 139, "2022": 148, "2023": 298 }, "geometry": { "type": "Point", "coordinates": [ 2.384820960152517, 48.887075996572584 ] } },
+{ "type": "Feature", "properties": { "c_ar": "13", "c_arinsee": "75113", "l_ar": "13ème Ardt", "l_aroff": "Gobelins", "2020": 46, "2021": 205, "2022": 309, "2023": 190 }, "geometry": { "type": "Point", "coordinates": [ 2.3622703608413, 48.828387965975772 ] } },
+{ "type": "Feature", "properties": { "c_ar": "17", "c_arinsee": "75117", "l_ar": "17ème Ardt", "l_aroff": "Batignolles-Monceau", "2020": 551, "2021": 332, "2022": 80, "2023": 48 }, "geometry": { "type": "Point", "coordinates": [ 2.306776990574408, 48.887326522025816 ] } },
+{ "type": "Feature", "properties": { "c_ar": "7", "c_arinsee": "75107", "l_ar": "7ème Ardt", "l_aroff": "Palais-Bourbon", "2020": 15, "2021": 10, "2022": 0, "2023": 0 }, "geometry": { "type": "Point", "coordinates": [ 2.312187695365549, 48.856174431279094 ] } },
+{ "type": "Feature", "properties": { "c_ar": "5", "c_arinsee": "75105", "l_ar": "5ème Ardt", "l_aroff": "Panthéon", "2020": 592, "2021": 54, "2022": 93, "2023": 30 }, "geometry": { "type": "Point", "coordinates": [ 2.350714609575259, 48.844443150532705 ] } },
+{ "type": "Feature", "properties": { "c_ar": "11", "c_arinsee": "75111", "l_ar": "11ème Ardt", "l_aroff": "Popincourt", "2020": 292, "2021": 157, "2022": 283, "2023": 234 }, "geometry": { "type": "Point", "coordinates": [ 2.380058308197898, 48.859059221342484 ] } },
+{ "type": "Feature", "properties": { "c_ar": "6", "c_arinsee": "75106", "l_ar": "6ème Ardt", "l_aroff": "Luxembourg", "2020": 0, "2021": 0, "2022": 63, "2023": 48 }, "geometry": { "type": "Point", "coordinates": [ 2.332897999053315, 48.849130358585228 ] } },
+{ "type": "Feature", "properties": { "c_ar": "9", "c_arinsee": "75109", "l_ar": "9ème Ardt", "l_aroff": "Opéra", "2020": 68, "2021": 18, "2022": 0, "2023": 16 }, "geometry": { "type": "Point", "coordinates": [ 2.337457543482544, 48.877163517328867 ] } },
+{ "type": "Feature", "properties": { "c_ar": "16", "c_arinsee": "75116", "l_ar": "16ème Ardt", "l_aroff": "Passy", "2020": 105, "2021": 0, "2022": 10, "2023": 81 }, "geometry": { "type": "Point", "coordinates": [ 2.261970788364543, 48.860392105415826 ] } },
+{ "type": "Feature", "properties": { "c_ar": "4", "c_arinsee": "75104", "l_ar": "4ème Ardt", "l_aroff": "Hôtel-de-Ville", "2020": 83, "2021": 48, "2022": 54, "2023": 74 }, "geometry": { "type": "Point", "coordinates": [ 2.357629620324997, 48.854341426272882 ] } }
+]
+}
