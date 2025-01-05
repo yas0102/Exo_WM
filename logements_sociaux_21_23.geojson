@@ -1,0 +1,27 @@
+{
+"type": "FeatureCollection",
+"name": "logements_sociaux_21_23",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "c_ar": "2", "c_arinsee": "75102", "l_ar": "2ème Ardt", "l_aroff": "Bourse", "1": 62, "2": 48, "3": 4 }, "geometry": { "type": "Point", "coordinates": [ 2.342802546891364, 48.86827922252251 ] } },
+{ "type": "Feature", "properties": { "c_ar": "10", "c_arinsee": "75110", "l_ar": "10ème Ardt", "l_aroff": "Entrepôt", "1": 53, "2": 81, "3": 203 }, "geometry": { "type": "Point", "coordinates": [ 2.360728487847452, 48.876130036539131 ] } },
+{ "type": "Feature", "properties": { "c_ar": "18", "c_arinsee": "75118", "l_ar": "18ème Ardt", "l_aroff": "Buttes-Montmartre", "1": 989, "2": 767, "3": 620 }, "geometry": { "type": "Point", "coordinates": [ 2.34816051956204, 48.892569268005779 ] } },
+{ "type": "Feature", "properties": { "c_ar": "12", "c_arinsee": "75112", "l_ar": "12ème Ardt", "l_aroff": "Reuilly", "1": 577, "2": 282, "3": 370 }, "geometry": { "type": "Point", "coordinates": [ 2.421323515614465, 48.834974154202456 ] } },
+{ "type": "Feature", "properties": { "c_ar": "15", "c_arinsee": "75115", "l_ar": "15ème Ardt", "l_aroff": "Vaugirard", "1": 268, "2": 586, "3": 246 }, "geometry": { "type": "Point", "coordinates": [ 2.292825822424998, 48.840085375938216 ] } },
+{ "type": "Feature", "properties": { "c_ar": "20", "c_arinsee": "75120", "l_ar": "20ème Ardt", "l_aroff": "Ménilmontant", "1": 988, "2": 430, "3": 293 }, "geometry": { "type": "Point", "coordinates": [ 2.401188129284686, 48.863460578895619 ] } },
+{ "type": "Feature", "properties": { "c_ar": "8", "c_arinsee": "75108", "l_ar": "8ème Ardt", "l_aroff": "Élysée", "1": 35, "2": 12, "3": 38 }, "geometry": { "type": "Point", "coordinates": [ 2.312554022402065, 48.872720837434464 ] } },
+{ "type": "Feature", "properties": { "c_ar": "1", "c_arinsee": "75101", "l_ar": "1er Ardt", "l_aroff": "Louvre", "1": 12, "2": 16, "3": 29 }, "geometry": { "type": "Point", "coordinates": [ 2.336443362053388, 48.862562701836005 ] } },
+{ "type": "Feature", "properties": { "c_ar": "3", "c_arinsee": "75103", "l_ar": "3ème Ardt", "l_aroff": "Temple", "1": 38, "2": 21, "3": 30 }, "geometry": { "type": "Point", "coordinates": [ 2.360000985897692, 48.862872380016924 ] } },
+{ "type": "Feature", "properties": { "c_ar": "14", "c_arinsee": "75114", "l_ar": "14ème Ardt", "l_aroff": "Observatoire", "1": 370, "2": 90, "3": 183 }, "geometry": { "type": "Point", "coordinates": [ 2.326542044198947, 48.829244500489871 ] } },
+{ "type": "Feature", "properties": { "c_ar": "19", "c_arinsee": "75119", "l_ar": "19ème Ardt", "l_aroff": "Buttes-Chaumont", "1": 139, "2": 148, "3": 298 }, "geometry": { "type": "Point", "coordinates": [ 2.384820960152517, 48.887075996572584 ] } },
+{ "type": "Feature", "properties": { "c_ar": "13", "c_arinsee": "75113", "l_ar": "13ème Ardt", "l_aroff": "Gobelins", "1": 205, "2": 309, "3": 190 }, "geometry": { "type": "Point", "coordinates": [ 2.3622703608413, 48.828387965975772 ] } },
+{ "type": "Feature", "properties": { "c_ar": "17", "c_arinsee": "75117", "l_ar": "17ème Ardt", "l_aroff": "Batignolles-Monceau", "1": 332, "2": 80, "3": 48 }, "geometry": { "type": "Point", "coordinates": [ 2.306776990574408, 48.887326522025816 ] } },
+{ "type": "Feature", "properties": { "c_ar": "7", "c_arinsee": "75107", "l_ar": "7ème Ardt", "l_aroff": "Palais-Bourbon", "1": 10, "2": 0, "3": 0 }, "geometry": { "type": "Point", "coordinates": [ 2.312187695365549, 48.856174431279094 ] } },
+{ "type": "Feature", "properties": { "c_ar": "5", "c_arinsee": "75105", "l_ar": "5ème Ardt", "l_aroff": "Panthéon", "1": 54, "2": 93, "3": 30 }, "geometry": { "type": "Point", "coordinates": [ 2.350714609575259, 48.844443150532705 ] } },
+{ "type": "Feature", "properties": { "c_ar": "11", "c_arinsee": "75111", "l_ar": "11ème Ardt", "l_aroff": "Popincourt", "1": 157, "2": 283, "3": 234 }, "geometry": { "type": "Point", "coordinates": [ 2.380058308197898, 48.859059221342484 ] } },
+{ "type": "Feature", "properties": { "c_ar": "6", "c_arinsee": "75106", "l_ar": "6ème Ardt", "l_aroff": "Luxembourg", "1": 0, "2": 63, "3": 48 }, "geometry": { "type": "Point", "coordinates": [ 2.332897999053315, 48.849130358585228 ] } },
+{ "type": "Feature", "properties": { "c_ar": "9", "c_arinsee": "75109", "l_ar": "9ème Ardt", "l_aroff": "Opéra", "1": 18, "2": 0, "3": 16 }, "geometry": { "type": "Point", "coordinates": [ 2.337457543482544, 48.877163517328867 ] } },
+{ "type": "Feature", "properties": { "c_ar": "16", "c_arinsee": "75116", "l_ar": "16ème Ardt", "l_aroff": "Passy", "1": 0, "2": 10, "3": 81 }, "geometry": { "type": "Point", "coordinates": [ 2.261970788364543, 48.860392105415826 ] } },
+{ "type": "Feature", "properties": { "c_ar": "4", "c_arinsee": "75104", "l_ar": "4ème Ardt", "l_aroff": "Hôtel-de-Ville", "1": 48, "2": 54, "3": 74 }, "geometry": { "type": "Point", "coordinates": [ 2.357629620324997, 48.854341426272882 ] } }
+]
+}
